@@ -380,9 +380,6 @@ INPUT C:/texlive/2024/texmf-var/luatexja/extra_lmsans10-regular.luc
 INPUT C:/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmsans12-regular.luc
 INPUT C:/texlive/2024/texmf-var/luatexja/extra_lmsans12-regular.luc
 INPUT ./学術研究会の現状.toc
-OUTPUT 学術研究会の現状.toc
-INPUT C:/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
-INPUT C:/texlive/2024/texmf-var/luatexja/extra_lmroman10-bold.luc
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
@@ -413,6 +410,9 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
+OUTPUT 学術研究会の現状.toc
+INPUT C:/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
+INPUT C:/texlive/2024/texmf-var/luatexja/extra_lmroman10-bold.luc
 INPUT C:/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman7-regular.luc
 INPUT C:/texlive/2024/texmf-var/luatexja/extra_lmroman7-regular.luc
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm

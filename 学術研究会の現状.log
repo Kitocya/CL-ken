@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.5)  10 NOV 2024 17:21
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.5)  10 NOV 2024 17:30
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Git/CL-ken/学術研究会の現状.tex
@@ -1274,7 +1274,17 @@ LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
 (Font)              scaled to size 13.31584pt on input line 21.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 (Font)              scaled to size 13.31584pt on input line 21.
-(load cache: extra_lmsans12-regular.luc) (./学術研究会の現状.toc)
+(load cache: extra_lmsans12-regular.luc) (./学術研究会の現状.toc
+LaTeX Font Info:    Calculating math sizes for size <10.95001> on input line 2.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 6.47295pt on input line 2.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 4.62357pt on input line 2.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 6.47295pt on input line 2.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 4.62357pt on input line 2.
+)
 \tf@toc=\write6
 
 \openout6 = 学術研究会の現状.toc
@@ -1290,33 +1300,28 @@ LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
  [1
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <10.95001> on input line 72.
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.47295pt on input line 72.
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 72.
-LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 6.47295pt on input line 72.
-LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 72.
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 31.
 (load cache: extra_lmroman7-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 6.47295pt on input line 72.
-LaTeX Font Info:    Calculating math sizes for size <8.76001> on input line 72.
+(Font)              scaled to size 6.47295pt on input line 73.
+LaTeX Font Info:    Calculating math sizes for size <8.76001> on input line 73.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 5.17834pt on input line 72.
+(Font)              scaled to size 5.17834pt on input line 73.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 3.69885pt on input line 72.
+(Font)              scaled to size 3.69885pt on input line 73.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 7.3977pt on input line 72.
+(Font)              scaled to size 7.3977pt on input line 73.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 5.17834pt on input line 72.
+(Font)              scaled to size 5.17834pt on input line 73.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 3.69885pt on input line 72.
+(Font)              scaled to size 3.69885pt on input line 73.
 (load cache: extra_lmroman6-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 5.17834pt on input line 72.
+(Font)              scaled to size 5.17834pt on input line 73.
  [2
+
+] [3
 
 ] (./学術研究会の現状.aux)
  ***********
@@ -1324,23 +1329,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `学術研究会の現状.out' has not changed.
-(rerunfilecheck)             Checksum: 8108B17649B0837BAAA9807909C5D79E;193.
+(rerunfilecheck)             Checksum: 608AEC7694D8B2E12FEE0BEA099FB1ED;376.
 )
 
 Here is how much of LuaTeX's memory you used:
- 32811 strings out of 476447
+ 32818 strings out of 476447
  125244,1977958 words of node,token memory allocated
  1217 words of node memory still in use:
    11 hlist, 2 vlist, 5 rule, 3 glue, 4 kern, 1 glyph, 238 attribute, 67 glue_spec, 34 attribute_list, 2 write, 14 user_defined nodes
-   avail lists: 1:11,2:30854,3:547,4:432,5:110,6:67,7:3105,8:2,9:1398,10:12,11:2
- 53877 multiletter control sequences out of 65536+600000
- 141 fonts using 91218063 bytes
- 125i,11n,128p,1909b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf>
-Output written on 学術研究会の現状.pdf (2 pages, 65741 bytes).
+   avail lists: 1:11,2:31142,3:562,4:440,5:109,6:69,7:3124,8:2,9:1398,10:12,11:2
+ 53881 multiletter control sequences out of 65536+600000
+ 142 fonts using 91349751 bytes
+ 125i,11n,128p,1909b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf>
+Output written on 学術研究会の現状.pdf (3 pages, 71688 bytes).
 
-PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 131072)
- 40 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 118 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 131072)
+ 48 words of extra memory for PDF output out of 10000 (max. 100000000)
 

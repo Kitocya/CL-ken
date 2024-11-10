@@ -1,3 +1,4 @@
-\contentsline {section}{\numberline {1}顧問}{2}{section.1}%
-\contentsline {section}{\numberline {2}幹部}{2}{section.2}%
-\contentsline {section}{\numberline {3}活動内容}{2}{section.3}%
+\contentsline {section}{\numberline {1}概要}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}顧問および幹部}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}活動内容}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}論理学に反する事象}{3}{section.2}%
