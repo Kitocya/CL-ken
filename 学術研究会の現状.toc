@@ -1,7 +1,0 @@
-\contentsline {section}{\numberline {1}概要}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}顧問および幹部}{2}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}活動内容}{2}{subsection.1.2}%
-\contentsline {section}{\numberline {2}論理学に反する事象}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}学部祭1日目「休業」事件}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}「防火防災訓練」参加したのにしなかったことにされた事件}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}その他}{3}{subsection.2.3}%
